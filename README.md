@@ -1,8 +1,9 @@
 <html>
   <body>
-Pools: https://miningpoolstats.stream/bitcoinvg</br>
-Exchanges: https://www.ztb.im/exchange?coin=BVG_USDT</br>
-Telegram: https://t.me/BitcoinVG</br>
+    
+<p>Pools: https://miningpoolstats.stream/bitcoinvg</p>
+<p>Exchanges: https://www.ztb.im/exchange?coin=BVG_USDT</p>
+Telegram: https://t.me/BitcoinVG
 we are insist to listing our coin into your exchange and pool 
 </body>
 </html>
