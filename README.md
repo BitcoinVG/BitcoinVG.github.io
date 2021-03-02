@@ -1,7 +1,7 @@
 <html>
   <body>
     <center>
-      Telegram: https://t.me/BitcoinVG<br>
+      <a href="https://t.me/BitcoinVG"> <img src="Telegram_(software)-Logo.wine.png"></a>  <br>
     <img src="ss.jpg">
     
 Pools: https://miningpoolstats.stream/bitcoinvg<br>
