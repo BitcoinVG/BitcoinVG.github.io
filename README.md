@@ -1,10 +1,10 @@
 <html>
   <body>
     <center>
-    
-    <img src="ss.jpg">
-    
-      <a href="https://t.me/BitcoinVG"> <img src="Telegram_(software)-Logo.wine.png" width="60px" height="40px" /></a>  <br>
+
+<img src="ss.jpg">
+
+<a href="https://t.me/BitcoinVG"> <img src="Telegram_(software)-Logo.wine.png" width="60px" height="40px" /></a>  <br>
     
 Pools: https://miningpoolstats.stream/bitcoinvg<br>
 Exchanges: https://www.ztb.im/exchange?coin=BVG_USDT<br>
