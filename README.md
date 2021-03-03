@@ -2,7 +2,7 @@
   <body>
     <center>
 
-<img src="ss.jpg"><br><br>
+<img src="ss.jpg"><br>
 
 
 Download Wallet:<br>
@@ -24,27 +24,16 @@ Exchanges: <br>
 We are On: <br>
 <a href="https://www.coingecko.com/en/coins/bitcoin-virtual-gold"> <img src="coingecko.svg" width="250px" height="67px" /></a><br><br>
 
+
+
+Donate To Grow:<br>
+<img src="bc1q0zgnudqwn2rg0stsrjm3q2wk30pqpcydnnn2zp.png" width="300px" height="289px" /><br>
+bc1q0zgnudqwn2rg0stsrjm3q2wk30pqpcydnnn2zp<br><br>
+
+
+
 We are insist to listing our coin into your exchange and pool <br>
   <p>BitcoinVG is developed to provide more decentralization via the Proof of Transaction (PoT) feature <br>BitcoinVG’s support of the PoT metric makes for a more protected Bitcoin from potential 51% attackers.</p>
-  
-  
-  
-  
-  
-  <script>
-function copyToClipboard(element) {
-  var $temp = $("<input>");
-  $("body").append($temp);
-  $temp.val($(element).text()).select();
-  document.execCommand("copy");
-  $temp.remove();
-  alert('کپی انجام شد');
-}
-</script>
-
-
-
-
   
     </center>
 </body>
