@@ -26,6 +26,26 @@ We are On: <br>
 
 We are insist to listing our coin into your exchange and pool <br>
   <p>BitcoinVG is developed to provide more decentralization via the Proof of Transaction (PoT) feature <br>BitcoinVG’s support of the PoT metric makes for a more protected Bitcoin from potential 51% attackers.</p>
+  
+  
+  
+  
+  
+  <script>
+function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand("copy");
+  $temp.remove();
+  alert('کپی انجام شد');
+}
+</script>
+
+
+
+
+  
     </center>
 </body>
 </html>
