@@ -27,8 +27,8 @@ We are On: <br>
 
 
 Donate To Grow:<br>
-<img src="bc1q0zgnudqwn2rg0stsrjm3q2wk30pqpcydnnn2zp.png" width="300px" height="289px" /><br>
-bc1q0zgnudqwn2rg0stsrjm3q2wk30pqpcydnnn2zp<br><br>
+<img src="bc1q0zgnudqwn2rg0stsrjm3q2wk30pqpcydnnn2zp.png" width="248px" height="250px" /><br>
+bc1q0zgnudqwn2rg0stsrjm3q2wk30pqpcydnnn2zp<br><br><br>
 
 
 
