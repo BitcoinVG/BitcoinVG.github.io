@@ -6,7 +6,7 @@
 
 
 Download Wallet:<br>
-<a href="bitcoin-vgold-qt64.zip"> <img src="windos.png" width="196px" height="54px" /></a>  <br>
+<a href="https://github.com/bitcoinvg/bitcoinvg.github.io/raw/main/bitcoin-vgold-qt64.zip"> <img src="windos.png" width="196px" height="54px" /></a>  <br>
 
 Social media: <br>
 <a href="https://t.me/BitcoinVG"> <img src="Telegram_(software)-Logo.wine.png" width="120px" height="80px" /></a>  <br>
