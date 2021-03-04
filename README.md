@@ -7,7 +7,7 @@
 
 Download Wallet:<br>
 <a href="https://github.com/bitcoinvg/bitcoinvg.github.io/raw/main/bitcoin-vgold-qt64.zip"> <img src="windos.png" width="196px" height="54px" /></a>  <br>
-3/3/2021 working fine<br>
+3/3/2021 working fine<br><br>
 if you have any problem to progress try these node in your wallet console<br>
 addnode "213.232.124.121:5333" "add"<br>
 or<br>
