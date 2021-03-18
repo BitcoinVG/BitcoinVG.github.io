@@ -12,7 +12,7 @@ if you have any problem to progress try these node in your wallet console<br>
 addnode "213.232.124.121:5333" "add"<br>
 or<br>
 addnode "18.196.22.222:5333" "add"<br>
-<a href="https://bitcoinvg.github.io/xxxx.jpg">example</a><br>
+<a href="https://bitcoinvg.github.io/xxxx.jpg">example</a><br><br>
 Max Supply<br>
 21,000,000
 
