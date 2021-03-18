@@ -16,7 +16,7 @@ addnode "18.196.22.222:5333" "add"<br>
 Max Supply<br>
 21,000,000<br><br>
 Contact me in Telegram to get 1 for FREE<br>
-here: <a href="https://https://t.me/mohhammad786">@mohhammad786</a><br><br>
+here: <a href="https://t.me/mohhammad786">@mohhammad786</a><br><br>
 
 
 <br><br>
